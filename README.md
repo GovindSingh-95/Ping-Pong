@@ -20,4 +20,29 @@ A classic **Ping Pong Game** built in Java using `Swing` and `AWT`. This game fe
 3. Compile the Java file:
    ```sh
    javac PingPongGame.java
+4. Run the game
+    ```sh
+   java PingPongGame
+
+### 🔹 Option 2: Clone & Run (Recommended)
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/GovindSingh-95/PingPongGame.git
+   cd PingPongGame
+2. Compile the Java file:
+   ```sh
+   javac PingPongGame.java
+3. Run the game:
+   ```sh
+   java PingPongGame
+
+## 🎮 How to Play
+Move Paddle:<br>
+🔼 W - Move Up<br>
+🔽 S - Move Down<br>
+Game Objective:<br>
+🏆 Score 10 points before the computer does to win!<br>
+Ball Mechanics:<br>
+The ball bounces off the paddles and walls.<br>
+Speed increases every 10 seconds to make the game more challenging.
 
